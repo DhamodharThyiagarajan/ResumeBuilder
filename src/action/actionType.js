@@ -1,0 +1,6 @@
+export const FORM_DATA = 'FORM_DATA';
+export const EDUCATION_DATA = 'EDUCATION_DATA';
+export const EXPERIENCE_DATA = 'EXPERIENCE_DATA'; 
+export const SKILLS_DATA = 'SKILLS_DATA';
+export const SELECTED_TEMPLATE = 'SELECTED_TEMPLATE';
+export const SAVE_RESUME = 'SAVE_RESUME';
