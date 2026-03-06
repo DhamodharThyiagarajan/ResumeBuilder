@@ -1,7 +1,7 @@
 {
   "name": "resume",
-  "homepage": "https://dhamodharthyiagarajan.github.io/ResumeBuilder",
   "private": true,
+   "homepage": "https://dhamodharthyiagarajan.github.io/ResumeBuilder",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

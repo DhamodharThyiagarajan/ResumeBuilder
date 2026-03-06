@@ -12,7 +12,7 @@ import MyResumes from './Compoents/Layout/MyResumes';
 
 const App = () => {
   return (
-    <Router basename="/ResumeBuilder">
+    <Router basename="/">
       <Header/>
       <Routes>
         <Route path="/" element={<Home/>} />
